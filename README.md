@@ -59,8 +59,9 @@ npm install
 ```
 - **Create a .env file in the backend folder:**
 ```ini
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+MONGO_URI=mongodb://localhost:27017/leitner
+
+JWT_SECRRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2IyNGI5Mzc0MjQzYTMyMTE4YTI3ZGQiLCJpYXQiOjE3Mzk3MzgwODcsImV4cCI6MTczOTc0MTY4N30._wCdbVSDmV6feOLlZkEmyVPO9OTDPHPyjA7i8Ojj2lE
 ```
 - **Start the backend server:**
 ```sh
