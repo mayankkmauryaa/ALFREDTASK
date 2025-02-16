@@ -14,5 +14,5 @@
 ## 📌 Setup Instructions:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ALFREDTASK.git
+   git clone https://github.com/mayankkmauryaa/ALFREDTASK.git
    cd ALFREDTASK
